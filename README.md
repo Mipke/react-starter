@@ -1,9 +1,10 @@
 This repository contains an opinionated template React starter project
 
 ##### Dependencies:
-- typescript
+- typescript: For quick iteration and the cornerstone of code confidence in any project of measureable size
 - classnames: For easy support of multiple classnames for elements
 - node-sass: For scss support for easier style writing, to be used in combination with css modules for easy, non-bleeding component styles
+- easy-peasy: For super simple state management that avoids any sort of writing actions and reducers manually
 
 ##### Structure:
 `app` Directory to hold root App component

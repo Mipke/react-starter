@@ -20,3 +20,9 @@ This repository contains an opinionated template React starter project
 `chemistry/screens` The home for more screen components
 
 `chemistry/styles` The home for project style files
+
+`services` Service/business logic and data models live here
+
+`state` Base directory to hold easy-peasy global state
+
+`state/chapters` Chapters each hold a separate portion of the overall global state (Usually by separated by category to make the global state easier to work with and understand)

@@ -7,10 +7,16 @@ This repository contains an opinionated template React starter project
 - easy-peasy: For super simple state management that avoids any sort of writing actions and reducers manually
 
 ##### Structure:
-`app` Hold root App component, routing, and project hooks
+`app` Holds root App component & routing
+
+`app/hooks` Holds project hooks
 
 `chemistry` Directory to hold the basic components that make up the app
 
 `chemistry/atoms` The home for the simplest components used throughout the project. This includes buttons, text inputs, etc.
 
 `chemistry/compounds` The home for more complex components that are either single use components or reusable combinations of atom components
+
+`chemistry/screens` The home for more screen components
+
+`chemistry/styles` The home for project style files

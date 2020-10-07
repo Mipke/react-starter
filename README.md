@@ -7,7 +7,7 @@ This repository contains an opinionated template React starter project
 - easy-peasy: For super simple state management that avoids any sort of writing actions and reducers manually
 
 ##### Structure:
-`app` Directory to hold root App component
+`app` Hold root App component, routing, and project hooks
 
 `chemistry` Directory to hold the basic components that make up the app
 
